@@ -1,3 +1,9 @@
+# Gradle folder
+.gradle
+
+# Mac
+.DS_Store
+
 # built application files
 *.apk
 *.ap_
@@ -14,6 +20,7 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+/local.properties
 
 # Eclipse project files
 .classpath
@@ -27,3 +34,4 @@ proguard/
 *.ipr
 *.iws
 .idea/
+/.idea/workspace.xml
